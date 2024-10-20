@@ -14,7 +14,7 @@ import com.example.navigate.navigation.NavManager
 import com.example.navigate.ui.theme.NavigateTheme
 import com.example.navigate.views.DetailView
 import com.example.navigate.views.HomeView
-
+//
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
